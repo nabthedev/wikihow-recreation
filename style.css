@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Arial, sans-serif;
+  background: #f8f8f8;
+  color: #222;
+  margin: 0;
+  padding: 2rem;
+}
+h1 {
+  color: #4caf50;
+}
+.article {
+  background: #fff;
+  border: 1px solid #dedede;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
