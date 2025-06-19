@@ -1,4 +1,4 @@
-const API = 'https://your-replit-backend-url/api';
+const API = 'https://c49e9cb2-49ab-4839-89c2-c70b41573fad-00-1035t9hojo5ss.janeway.replit.dev/api';
 let TOKEN = localStorage.getItem('token') || null;
 
 function renderAuth() {
